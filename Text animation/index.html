@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Animation Example</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #222;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .animated-text {
+            font-size: 4rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            position: relative;
+            animation: slide 5s infinite alternate ease-in-out, color-change 3s infinite ease-in-out;
+        }
+
+        /* Animation for sliding text */
+        @keyframes slide {
+            0% {
+                transform: translateX(-100%);
+            }
+            100% {
+                transform: translateX(100%);
+            }
+        }
+
+        /* Animation for changing text color */
+        @keyframes color-change {
+            0%, 100% {
+                color: #f39c12;
+            }
+            50% {
+                color: #e74c3c;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="animated-text">Smooth Text Animation</div>
+</body>
+</html>
