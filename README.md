@@ -1,6 +1,7 @@
 # Text-animation
 This is a Text animation github page..
 
+# Fading Text Animation..
 
 https://github.com/user-attachments/assets/eea0621d-6334-4819-ac35-932102ff650f
 
