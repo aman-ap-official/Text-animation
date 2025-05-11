@@ -84,9 +84,12 @@ You can view the demo links above to see each animation in action.
 
 ### To get started, follow these steps:
 
-1. **Clone the repository**:
-
+1. *Clone the repository*:
+   
    Clone the repository to your local machine using `git`:
 
    ```bash
    git clone https://github.com/aman-ap-official/text-animation.git
+<p align="center">
+  Made with ❤ by <a href="https://github.com/aman-ap-official">Aman AP</a>
+</p>
