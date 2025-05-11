@@ -1,4 +1,4 @@
-# 🌟 Text Animation Effects 🌟
+ <h1 align="center">🌟 Text Animation Effects 🌟 </h1>
 
 <p align="center">
   <strong>A collection of cool text animations using only HTML and CSS.</strong>
