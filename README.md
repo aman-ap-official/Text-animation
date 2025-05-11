@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/aman-ap-official" target="_blank">Visit my GitHub</a> •  | <a href="https://github.com/aman-ap-official/Text-animation/blob/main/License">License</a>
+  <a href="https://github.com/aman-ap-official" target="_blank">Visit my GitHub</a> | <a href="https://github.com/aman-ap-official/Text-animation/blob/main/License">License</a>
 </p>
 
 ---
